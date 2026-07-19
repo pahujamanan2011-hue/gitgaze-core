@@ -1,6 +1,3 @@
-Here is the complete, high-impact README.md for **GitGaze Core**. It covers the architecture of the system, how it hooks into GitHub webhooks, and how to expose it using a tunneling tool like **ngrok** so it can interact with live GitHub events from your local machine.
-Copy and paste this exactly into your README.md file:
-```markdown
 # GitGaze Core 👁️⚡
 
 GitGaze Core is an open-source, AI-powered git diff and pull request (PR) analyzer. Built for modern development workflows, GitGaze acts as an automated senior software architect—scanning code patches instantly for structural risk, threading anomalies, database exposure, and dangerous architectural side-effects before a human reviewer ever looks at it.
